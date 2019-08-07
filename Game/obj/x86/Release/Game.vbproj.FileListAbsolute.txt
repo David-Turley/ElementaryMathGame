@@ -1,0 +1,49 @@
+G:\Programming\VB\Game 2\Game\bin\Release\Game.exe
+G:\Programming\VB\Game 2\Game\bin\Release\Game.pdb
+G:\Programming\VB\Game 2\Game\bin\Release\Game.xml
+G:\Programming\VB\Game 2\Game\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Programming\VB\Game 2\Game\obj\x86\Release\Game.CConsole.resources
+G:\Programming\VB\Game 2\Game\obj\x86\Release\Game.frmGame.resources
+G:\Programming\VB\Game 2\Game\obj\x86\Release\Game.Resources.resources
+G:\Programming\VB\Game 2\Game\obj\x86\Release\Game.StartScreen.resources
+G:\Programming\VB\Game 2\Game\obj\x86\Release\Game.Store.resources
+G:\Programming\VB\Game 2\Game\obj\x86\Release\Game.WaveEditor.resources
+G:\Programming\VB\Game 2\Game\obj\x86\Release\Game.WaveReward.resources
+G:\Programming\VB\Game 2\Game\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Programming\VB\Game 2\Game\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Programming\VB\Game 2\Game\obj\x86\Release\Game.exe
+G:\Programming\VB\Game 2\Game\obj\x86\Release\Game.xml
+G:\Programming\VB\Game 2\Game\obj\x86\Release\Game.pdb
+E:\Programming\VB\Game 2\Game\obj\x86\Release\Game.exe
+E:\Programming\VB\Game 2\Game\obj\x86\Release\Game.xml
+E:\Programming\VB\Game 2\Game\obj\x86\Release\Game.pdb
+E:\Programming\VB\Game 2\Game\bin\Release\Game.exe
+E:\Programming\VB\Game 2\Game\bin\Release\Game.pdb
+E:\Programming\VB\Game 2\Game\bin\Release\Game.xml
+E:\Programming\VB\Game 2\Game\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Programming\VB\Game 2\Game\obj\x86\Release\Game.CConsole.resources
+E:\Programming\VB\Game 2\Game\obj\x86\Release\Game.frmGame.resources
+E:\Programming\VB\Game 2\Game\obj\x86\Release\Game.Resources.resources
+E:\Programming\VB\Game 2\Game\obj\x86\Release\Game.StartScreen.resources
+E:\Programming\VB\Game 2\Game\obj\x86\Release\Game.Store.resources
+E:\Programming\VB\Game 2\Game\obj\x86\Release\Game.WaveEditor.resources
+E:\Programming\VB\Game 2\Game\obj\x86\Release\Game.WaveReward.resources
+E:\Programming\VB\Game 2\Game\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Programming\VB\Game 2\Game\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Programming\VB\Game 2\Game\obj\x86\Release\Game.Instructions.resources
+G:\Programming\VB\Game 2\Game\obj\x86\Release\Game.Instructions.resources
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.exe
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.xml
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.pdb
+E:\Programming\Programming projects\VB\Game 2\Game\bin\Release\Game.exe
+E:\Programming\Programming projects\VB\Game 2\Game\bin\Release\Game.pdb
+E:\Programming\Programming projects\VB\Game 2\Game\bin\Release\Game.xml
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.CConsole.resources
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.frmGame.resources
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.Instructions.resources
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.Resources.resources
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.StartScreen.resources
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.Store.resources
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.WaveEditor.resources
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.WaveReward.resources
+E:\Programming\Programming projects\VB\Game 2\Game\obj\x86\Release\Game.vbproj.GenerateResource.Cache
